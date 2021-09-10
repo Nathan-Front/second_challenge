@@ -3,6 +3,11 @@ body{
     padding: 0;
     width: 1440px;
     font-family: "Spartan", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0 auto;
 }
 .main-container{
     margin: 0;
